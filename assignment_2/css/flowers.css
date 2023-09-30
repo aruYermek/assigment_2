@@ -1,0 +1,16 @@
+.flowers-photo{
+     height: 700px;
+ }
+ .flowers-price{
+     font-size: 20px;
+     margin: 10px;
+     text-align: center;
+     color: black;
+ }
+ .flowers-price:hover{
+     background-color:  rgb(0, 0, 0);
+     color:  rgb(249, 205, 229);
+ } 
+ .carousel-indicators{
+    margin-top: 5rem;
+ }
